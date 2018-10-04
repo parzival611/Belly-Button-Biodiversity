@@ -1,3 +1,7 @@
+#JavaScript Plotly features interactive dashboard served using Flask and powered by JavaScript, D3, and Plotly. Hosted by Heroku here:
+
+https://belly-app.herokuapp.com/
+
 # Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
