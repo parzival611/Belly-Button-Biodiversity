@@ -5,18 +5,18 @@
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="object" property="og:type">
 <meta content="GitLab" property="og:site_name">
-<meta content="15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md · master · usc-boot-camp / USCLOS201807DATA5" property="og:title">
+<meta content="15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg · master · usc-boot-camp / USCLOS201807DATA5" property="og:title">
 <meta content="GitLab Community Edition" property="og:description">
 <meta content="https://usc.bootcampcontent.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
 <meta content="64" property="og:image:width">
 <meta content="64" property="og:image:height">
-<meta content="https://usc.bootcampcontent.com/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md" property="og:url">
+<meta content="https://usc.bootcampcontent.com/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg" property="og:url">
 <meta content="summary" property="twitter:card">
-<meta content="15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md · master · usc-boot-camp / USCLOS201807DATA5" property="twitter:title">
+<meta content="15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg · master · usc-boot-camp / USCLOS201807DATA5" property="twitter:title">
 <meta content="GitLab Community Edition" property="twitter:description">
 <meta content="https://usc.bootcampcontent.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
 
-<title>15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md · master · usc-boot-camp / USCLOS201807DATA5 · GitLab</title>
+<title>15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg · master · usc-boot-camp / USCLOS201807DATA5 · GitLab</title>
 <meta content="GitLab Community Edition" name="description">
 <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-075eba76312e8421991a0c1f89a89ee81678bcde72319dd3e8047e2a47cd3a42.ico" id="favicon" />
 <link rel="stylesheet" media="all" href="/assets/application-ea46287fc2287180b7503b4860924902a8fd05e36cf33b8f12f43950021a5075.css" />
@@ -40,7 +40,7 @@ window.gon={};gon.api_version="v4";gon.default_avatar_url="https://usc.bootcampc
 </script>
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="3aLnxCR11qGlDg4MdgL15Wtuf3LUADxru3uW4Jf3W0+/Rs063X0zKn9aUoGr75OtNE/Z6nYxiPT856NRX7ir4g==" />
+<meta name="csrf-token" content="Qr1P3RFQtFqrFrzFfBtrzfY6+EKZlepB7NhsT/KTJQsgWWUj6FhR0XFC4Eih9g2FqRte2jukXt6rRFn+OtzVpg==" />
 <meta content="origin-when-cross-origin" name="referrer">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 <meta content="#474D57" name="theme-color">
@@ -448,7 +448,7 @@ Activity
 <li><a class="group-path breadcrumb-item-text js-breadcrumb-item-text " href="/usc-boot-camp">usc-boot-camp</a><svg class="s8 breadcrumbs-list-angle"><use xlink:href="/assets/icons-228b3b53d9a397a1ac64e40bd07152a8a225245f6e754e9ce7450c1dee53e659.svg#angle-right"></use></svg></li> <li><a href="/usc-boot-camp/USCLOS201807DATA5"><span class="breadcrumb-item-text js-breadcrumb-item-text">USCLOS201807DATA5</span></a><svg class="s8 breadcrumbs-list-angle"><use xlink:href="/assets/icons-228b3b53d9a397a1ac64e40bd07152a8a225245f6e754e9ce7450c1dee53e659.svg#angle-right"></use></svg></li>
 
 <li>
-<h2 class="breadcrumbs-sub-title"><a href="/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md">Repository</a></h2>
+<h2 class="breadcrumbs-sub-title"><a href="/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg">Repository</a></h2>
 </li>
 </ul>
 </div>
@@ -469,7 +469,7 @@ Activity
 <div class="tree-ref-container">
 <div class="tree-ref-holder">
 <form class="project-refs-form" action="/usc-boot-camp/USCLOS201807DATA5/refs/switch" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="destination" id="destination" value="blob" />
-<input type="hidden" name="path" id="path" value="15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md" />
+<input type="hidden" name="path" id="path" value="15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg" />
 <div class="dropdown">
 <button class="dropdown-menu-toggle js-project-refs-dropdown qa-branches-select" type="button" data-toggle="dropdown" data-selected="master" data-ref="master" data-refs-url="/usc-boot-camp/USCLOS201807DATA5/refs?sort=updated_desc" data-field-name="ref" data-submit-form-on-click="true" data-visit="true"><span class="dropdown-toggle-text ">master</span><i aria-hidden="true" data-hidden="true" class="fa fa-chevron-down"></i></button>
 <div class="dropdown-menu dropdown-menu-paging dropdown-menu-selectable git-revision-dropdown qa-branches-dropdown">
@@ -497,7 +497,10 @@ Activity
 <a href="/usc-boot-camp/USCLOS201807DATA5/tree/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions">Instructions</a>
 </li>
 <li>
-<a href="/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md"><strong>README.md</strong>
+<a href="/usc-boot-camp/USCLOS201807DATA5/tree/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images">Images</a>
+</li>
+<li>
+<a href="/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg"><strong>bacteria_by_filterforgedotcom.jpg</strong>
 </a></li>
 </ul>
 </div>
@@ -505,7 +508,7 @@ Activity
 <a class="btn shortcuts-find-file" rel="nofollow" href="/usc-boot-camp/USCLOS201807DATA5/find_file/master"><i aria-hidden="true" data-hidden="true" class="fa fa-search"></i>
 <span>Find file</span>
 </a>
-<div class="btn-group" role="group"><a class="btn js-blob-blame-link" href="/usc-boot-camp/USCLOS201807DATA5/blame/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md">Blame</a><a class="btn" href="/usc-boot-camp/USCLOS201807DATA5/commits/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md">History</a><a class="btn js-data-file-blob-permalink-url" href="/usc-boot-camp/USCLOS201807DATA5/blob/2aeeb50026f0a9b599e47897b12c3b25c92da5de/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md">Permalink</a></div>
+<div class="btn-group" role="group"><a class="btn" href="/usc-boot-camp/USCLOS201807DATA5/commits/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg">History</a><a class="btn js-data-file-blob-permalink-url" href="/usc-boot-camp/USCLOS201807DATA5/blob/b27abef0bbdcce3fd04d2c72b8778f6693ce353a/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg">Permalink</a></div>
 </div>
 </div>
 
@@ -549,26 +552,20 @@ Activity
 <article class="file-holder">
 <div class="js-file-title file-title-flex-parent">
 <div class="file-header-content">
-<i aria-hidden="true" data-hidden="true" class="fa fa-file-text-o fa-fw"></i>
+<i aria-hidden="true" data-hidden="true" class="fa fa-file-image-o fa-fw"></i>
 <strong class="file-title-name">
-README.md
+bacteria_by_filterforgedotcom.jpg
 </strong>
-<button class="btn btn-clipboard btn-transparent prepend-left-5" data-toggle="tooltip" data-placement="bottom" data-container="body" data-class="btn-clipboard btn-transparent prepend-left-5" data-title="Copy file path to clipboard" data-clipboard-text="{&quot;text&quot;:&quot;15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md&quot;,&quot;gfm&quot;:&quot;`15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md`&quot;}" type="button" title="Copy file path to clipboard" aria-label="Copy file path to clipboard"><i aria-hidden="true" aria-hidden="true" data-hidden="true" class="fa fa-clipboard"></i></button>
+<button class="btn btn-clipboard btn-transparent prepend-left-5" data-toggle="tooltip" data-placement="bottom" data-container="body" data-class="btn-clipboard btn-transparent prepend-left-5" data-title="Copy file path to clipboard" data-clipboard-text="{&quot;text&quot;:&quot;15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg&quot;,&quot;gfm&quot;:&quot;`15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg`&quot;}" type="button" title="Copy file path to clipboard" aria-label="Copy file path to clipboard"><i aria-hidden="true" aria-hidden="true" data-hidden="true" class="fa fa-clipboard"></i></button>
 <small>
-2.58 KB
+162 KB
 </small>
 </div>
 
 <div class="file-actions">
-<div class="btn-group js-blob-viewer-switcher" role="group">
-<button aria-label="Display source" class="btn btn-default btn-sm js-blob-viewer-switch-btn has-tooltip" data-container="body" data-viewer="simple" title="Display source">
-<i aria-hidden="true" data-hidden="true" class="fa fa-code"></i>
-</button><button aria-label="Display rendered file" class="btn btn-default btn-sm js-blob-viewer-switch-btn has-tooltip" data-container="body" data-viewer="rich" title="Display rendered file">
-<i aria-hidden="true" data-hidden="true" class="fa fa-file-text-o"></i>
-</button></div>
 
-<div class="btn-group" role="group"><button class="btn btn btn-sm js-copy-blob-source-btn" data-toggle="tooltip" data-placement="bottom" data-container="body" data-class="btn btn-sm js-copy-blob-source-btn" data-title="Copy source to clipboard" data-clipboard-target=".blob-content[data-blob-id=&#39;8e24b9e52c5f11e95bb11a7cae08df460a03c12b&#39;]" type="button" title="Copy source to clipboard" aria-label="Copy source to clipboard"><i aria-hidden="true" aria-hidden="true" data-hidden="true" class="fa fa-clipboard"></i></button><a class="btn btn-sm has-tooltip" target="_blank" rel="noopener noreferrer" title="Open raw" data-container="body" href="/usc-boot-camp/USCLOS201807DATA5/raw/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md"><i aria-hidden="true" data-hidden="true" class="fa fa-file-code-o"></i></a></div>
-<div class="btn-group" role="group"><a class="btn js-edit-blob  btn-sm" href="/usc-boot-camp/USCLOS201807DATA5/edit/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md">Edit</a><a class="btn btn-default btn-sm" href="/-/ide/project/usc-boot-camp/USCLOS201807DATA5/edit/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md">Web IDE</a><button name="button" type="submit" class="btn btn-default" data-target="#modal-upload-blob" data-toggle="modal">Replace</button><button name="button" type="submit" class="btn btn-remove" data-target="#modal-remove-blob" data-toggle="modal">Delete</button></div>
+<div class="btn-group" role="group"><a class="btn btn-sm has-tooltip" target="_blank" rel="noopener noreferrer" title="Download" data-container="body" href="/usc-boot-camp/USCLOS201807DATA5/raw/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg"><svg><use xlink:href="/assets/icons-228b3b53d9a397a1ac64e40bd07152a8a225245f6e754e9ce7450c1dee53e659.svg#download"></use></svg></a></div>
+<div class="btn-group" role="group"><button name="button" type="submit" class="btn btn-default" data-target="#modal-upload-blob" data-toggle="modal">Replace</button><button name="button" type="submit" class="btn btn-remove" data-target="#modal-remove-blob" data-toggle="modal">Delete</button></div>
 </div>
 </div>
 <div class="js-file-fork-suggestion-section file-fork-suggestion hidden">
@@ -580,23 +577,30 @@ edit
 files in this project directly. Please fork this project,
 make your changes there, and submit a merge request.
 </span>
-<a class="js-fork-suggestion-button btn btn-grouped btn-inverted btn-new" rel="nofollow" data-method="post" href="/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md">Fork</a>
+<a class="js-fork-suggestion-button btn btn-grouped btn-inverted btn-new" rel="nofollow" data-method="post" href="/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg">Fork</a>
 <button class="js-cancel-fork-suggestion-button btn btn-grouped" type="button">
 Cancel
 </button>
 </div>
 
 
-<div class="blob-viewer hidden" data-type="simple" data-url="/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md?format=json&amp;viewer=simple">
-<div class="text-center prepend-top-default append-bottom-default">
-<i aria-hidden="true" aria-label="Loading content…" class="fa fa-spinner fa-spin fa-2x"></i>
+<div class="blob-viewer hidden" data-type="simple">
+<div class="file-content blob_file blob-no-preview">
+<div class="center render-error vertical-center">
+<a href="/usc-boot-camp/USCLOS201807DATA5/raw/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg"><h1 class="light">
+<svg><use xlink:href="/assets/icons-228b3b53d9a397a1ac64e40bd07152a8a225245f6e754e9ce7450c1dee53e659.svg#download"></use></svg>
+</h1>
+<h4>
+Download (162 KB)
+</h4>
+</a></div>
 </div>
 
 </div>
 
-<div class="blob-viewer" data-rich-type="markup" data-type="rich" data-url="/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md?format=json&amp;viewer=rich">
-<div class="text-center prepend-top-default append-bottom-default">
-<i aria-hidden="true" aria-label="Loading content…" class="fa fa-spinner fa-spin fa-2x"></i>
+<div class="blob-viewer" data-rich-type="image" data-type="rich">
+<div class="file-content image_file">
+<img alt="bacteria_by_filterforgedotcom.jpg" data-src="https://usc.bootcampcontent.com/usc-boot-camp/USCLOS201807DATA5/raw/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg" class=" lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 </div>
 
 </div>
@@ -610,16 +614,16 @@ Cancel
 <div class="modal-content">
 <div class="modal-header">
 <a class="close" data-dismiss="modal" href="#">×</a>
-<h3 class="page-title">Delete README.md</h3>
+<h3 class="page-title">Delete bacteria_by_filterforgedotcom.jpg</h3>
 </div>
 <div class="modal-body">
-<form class="form-horizontal js-delete-blob-form js-quick-submit js-requires-input" action="/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="uq7lSMWIEK+geH79q4ZZupyPIrAb/gC2QTS3Pa5e+VLYSs+2PID1JHosInB2az/yw66EKLnPtCkGqIKMZhEJ/w==" /><div class="form-group commit_message-group">
-<label class="control-label" for="commit_message-8fcf484a347a7bf895b09b93756f2a3a">Commit message
+<form class="form-horizontal js-delete-blob-form js-quick-submit js-requires-input" action="/usc-boot-camp/USCLOS201807DATA5/blob/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="4/PJR43oPRVEXzgCSk2zT3tRZK9DMtfk/AVlNlS5lNKBF+O5dODYnp4LZI+XoNUHJHDCN+EDY3u7mVCHnPZkfw==" /><div class="form-group commit_message-group">
+<label class="control-label" for="commit_message-a222823531df31d303b3aee8d369e757">Commit message
 </label><div class="col-sm-10">
 <div class="commit-message-container">
 <div class="max-width-marker"></div>
-<textarea name="commit_message" id="commit_message-8fcf484a347a7bf895b09b93756f2a3a" class="form-control js-commit-message" placeholder="Delete README.md" required="required" rows="3">
-Delete README.md</textarea>
+<textarea name="commit_message" id="commit_message-a222823531df31d303b3aee8d369e757" class="form-control js-commit-message" placeholder="Delete bacteria_by_filterforgedotcom.jpg" required="required" rows="3">
+Delete bacteria_by_filterforgedotcom.jpg</textarea>
 </div>
 </div>
 </div>
@@ -630,7 +634,7 @@ Delete README.md</textarea>
 <input type="text" name="branch_name" id="branch_name" value="patch-1" required="required" class="form-control js-branch-name ref-name" />
 <div class="js-create-merge-request-container">
 <div class="checkbox">
-<label for="create_merge_request-0fabee71ca79542dfe5c575c37aa6215"><input type="checkbox" name="create_merge_request" id="create_merge_request-0fabee71ca79542dfe5c575c37aa6215" value="1" class="js-create-merge-request" checked="checked" />
+<label for="create_merge_request-7bc72082c58de8d08176999935fb61e8"><input type="checkbox" name="create_merge_request" id="create_merge_request-7bc72082c58de8d08176999935fb61e8" value="1" class="js-create-merge-request" checked="checked" />
 Start a <strong>new merge request</strong> with these changes
 </label></div>
 
@@ -655,10 +659,10 @@ Start a <strong>new merge request</strong> with these changes
 <div class="modal-content">
 <div class="modal-header">
 <a class="close" data-dismiss="modal" href="#">&times;</a>
-<h3 class="page-title">Replace README.md</h3>
+<h3 class="page-title">Replace bacteria_by_filterforgedotcom.jpg</h3>
 </div>
 <div class="modal-body">
-<form class="js-quick-submit js-upload-blob-form form-horizontal" data-method="put" action="/usc-boot-camp/USCLOS201807DATA5/update/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="O7n52ewJozZc2f0TZGMHSBGUAoYAJmXDo95sSfVaBcVZXdMnFQFGvYaNoZ65jmEATrWkHqIX0VzkQln4PRX1aA==" /><div class="dropzone">
+<form class="js-quick-submit js-upload-blob-form form-horizontal" data-method="put" action="/usc-boot-camp/USCLOS201807DATA5/update/master/15-Interactive-Visualizations-and-Dashboards/Homework/Instructions/Images/bacteria_by_filterforgedotcom.jpg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="MDj2BYsefVFnBuOEQVVnyMgYnPNbjzAEb3NeNXamjv9S3Nz7chaY2r1SvwmcuAGAlzk6a/m+hJso72uEvul+Ug==" /><div class="dropzone">
 <div class="dropzone-previews blob-upload-dropzone-previews">
 <p class="dz-message light">
 Attach a file by drag &amp; drop or <a class="markdown-selector" href="#">click to upload</a>
@@ -668,12 +672,12 @@ Attach a file by drag &amp; drop or <a class="markdown-selector" href="#">click 
 <br>
 <div class="dropzone-alerts alert alert-danger data" style="display:none"></div>
 <div class="form-group commit_message-group">
-<label class="control-label" for="commit_message-78d4a34d3e6d8c6846143809db8790b1">Commit message
+<label class="control-label" for="commit_message-cb8aba75814212020f54107f38f2831a">Commit message
 </label><div class="col-sm-10">
 <div class="commit-message-container">
 <div class="max-width-marker"></div>
-<textarea name="commit_message" id="commit_message-78d4a34d3e6d8c6846143809db8790b1" class="form-control js-commit-message" placeholder="Replace README.md" required="required" rows="3">
-Replace README.md</textarea>
+<textarea name="commit_message" id="commit_message-cb8aba75814212020f54107f38f2831a" class="form-control js-commit-message" placeholder="Replace bacteria_by_filterforgedotcom.jpg" required="required" rows="3">
+Replace bacteria_by_filterforgedotcom.jpg</textarea>
 </div>
 </div>
 </div>
@@ -684,7 +688,7 @@ Replace README.md</textarea>
 <input type="text" name="branch_name" id="branch_name" value="patch-1" required="required" class="form-control js-branch-name ref-name" />
 <div class="js-create-merge-request-container">
 <div class="checkbox">
-<label for="create_merge_request-e1870662f07eeda2d3532e0a196e5378"><input type="checkbox" name="create_merge_request" id="create_merge_request-e1870662f07eeda2d3532e0a196e5378" value="1" class="js-create-merge-request" checked="checked" />
+<label for="create_merge_request-ba93797f992edb9b9bc2338858c448fb"><input type="checkbox" name="create_merge_request" id="create_merge_request-ba93797f992edb9b9bc2338858c448fb" value="1" class="js-create-merge-request" checked="checked" />
 Start a <strong>new merge request</strong> with these changes
 </label></div>
 
