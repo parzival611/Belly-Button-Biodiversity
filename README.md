@@ -1,4 +1,6 @@
-#JavaScript Plotly features interactive dashboard served using Flask and powered by JavaScript, D3, and Plotly. Hosted by Heroku here:
+# JavaScript Plotly 
+
+JavaScript Plotly features interactive dashboard served using Flask and powered by JavaScript, D3, and Plotly. Hosted by Heroku here:
 
 https://belly-app.herokuapp.com/
 
